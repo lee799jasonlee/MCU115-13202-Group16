@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="select_side_dishes_choose_at_least_one">Select Side Dishes(choose at least one)</string>
+    <string name="fries">Fries</string>
+    <string name="salad">Salad</string>
+    <string name="corn_cup">Corn Cup</string>
+    <string name="done">Done</string>
+    <string name="cola">Cola</string>
+    <string name="icea_tea">icea Tea</string>
+    <string name="water">Water</string>
+    <string name="done3">Done</string>
+    <string name="select_drink">Select Drink</string>
+    <string name="select_mainmeal">Select MainMeal</string>
+    <string name="burger">Burger</string>
+    <string name="fried_chicken">Fried Chicken</string>
+    <string name="chicken_nuggets">Chicken Nuggets</string>
+    <string name="done2">Done</string>
+    <string name="fastfood_order_wizard">FastFood Order Wizard</string>
+    <string name="choose_main_meal">Choose Main Meal</string>
+    <string name="choose_side_dishes">Choose Side Dishes</string>
+    <string name="choose_drink">Choose Drink</string>
+    <string name="current_selection">Current Selection:</string>
+    <string name="main_nsides_ndrink">Main:-\nSides:-\nDrink:-</string>
+    <string name="order">Order</string>
+    <string name="confirm">Confirm</string>
+    <string name="your_order_summary_will_appear_here">Your order summary will appear here.</string>
+    <string name="confirmm">confirm</string>
+</resources>
